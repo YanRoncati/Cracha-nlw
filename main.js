@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: 'YanRoncati',
   youtube: 'Yan',
   facebook: 'YanRoncati',
-  instagram: 'YanRoncati',
+  instagram: 'yan_roncati',
   twitter: 'CansativoE'
 }
 
