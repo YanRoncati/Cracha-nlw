@@ -3,7 +3,7 @@ const LinksSocialMedia = {
   youtube: 'Yan',
   facebook: 'YanRoncati',
   instagram: 'yan_roncati',
-  twitter: 'CansativoE'
+  twitter: 'YanRoncati'
 }
 
 function changeSocialMediaLinks() {
