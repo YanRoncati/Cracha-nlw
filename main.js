@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'YanRoncati',
-  youtube: 'Yan',
+  youtube: 'YanRoncati',
   facebook: 'YanRoncati',
   instagram: 'yan_roncati',
   twitter: 'YanRoncati'
