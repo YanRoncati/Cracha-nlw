@@ -79,3 +79,16 @@ ul {
 
   justify-content: center;
 }
+
+@media (min-width: 720px) {
+	/* estilos versão tablet */
+}
+
+@media (min-width: 960px) {
+body {
+  height: 100vh
+}
+main {
+  width: 100%;
+}
+}
