@@ -18,7 +18,7 @@ body {
 }
 
 main {
-  background: url(images/background.svg) no-repeat center/cover;
+  background: url(imagem/background.svg) no-repeat center/cover;
   width: 100vw;
   min-height: 812px;
   height: 100vh;
@@ -79,4 +79,31 @@ ul {
 
   justify-content: center;
 }
+
+@media (min-width: 720px) {
+  body {
+    background: url(imagem/roaring-20s.jpg);
+  }
+
+  main {
+    background: url(imagem/Desktop.svg) no-repeat center;
+    width: 66vw;
+    min-height: 721px;
+    height: 100vh;
+  }
+}
+
+@media (min-width: 960px) {
+  body {
+    background: url(imagem/roaring-20s.jpg);
+  }
+
+  main {
+    background: url(imagem/Desktop.svg) no-repeat center;
+    width: 66vw;
+    min-height: 721px;
+    height: 100vh;
+  }
+}
+
 
