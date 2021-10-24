@@ -82,11 +82,11 @@ ul {
 
 @media (min-width: 720px) {
   body {
-    background: url(imagem/roaring-20s.jpg);
+    background: url(images/roaring-20s.jpg);
   }
 
   main {
-    background: url(imagem/Desktop.svg) no-repeat center;
+    background: url(images/Desktop.svg) no-repeat center;
     width: 66vw;
     min-height: 721px;
     height: 100vh;
@@ -95,11 +95,11 @@ ul {
 
 @media (min-width: 960px) {
   body {
-    background: url(imagem/roaring-20s.jpg);
+    background: url(images/roaring-20s.jpg);
   }
 
   main {
-    background: url(imagem/Desktop.svg) no-repeat center;
+    background: url(images/Desktop.svg) no-repeat center;
     width: 66vw;
     min-height: 721px;
     height: 100vh;
